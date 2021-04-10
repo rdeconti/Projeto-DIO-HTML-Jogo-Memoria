@@ -5,24 +5,19 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Projeto Digital Innovation One HTML
-# Recriando a interface do Netflix
-Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/felipeAguiarCode/netflix-clone
+# Desenvolvendo um jogo da memória
+- Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/SpruceGabriela/jogo-da-memoria-dio
+- Professor: Gabriela Pinheiro
+- Aulas: https://web.digitalinnovation.one/lab/desenvolvendo-um-jogo-da-memoria/learning/bfb5bc15-cb37-4a6c-9b2a-e4f98e004897
 
 # Descrição
-Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
+Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML, CSS e Javascript. Com poucas linhas de código, aprenderemos juntos a trabalhar com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
 
 # Melhorias implementadas
-- Obtive outras imagens do site TMDB https://www.themoviedb.org/?language=pt-BR
-- Crie pastas para segregar as imagens por página do site
-- Arredondei as bordas dos botões (inclusive no hover)
-- Coloquei link no botão assistir agora para ativar página de "traillers"
-- Criei página de "traillers" para exibir quatro "traillers" do YouTube
-- Configurei OWL para "traillers" e "info"
-- Coloquei link no botão "Início" do menu superior para chamar o "index.html"
-- Coloquei link no logotipo NETFLIX do menu superior para chamar o "index.html"
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Melhorias futuras
-- Implementar back-end ou api para não ser estático
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Exemplos de telas
 
