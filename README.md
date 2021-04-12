@@ -27,10 +27,10 @@ Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML,
 # Exemplos de telas
 
 ## Tela INICIAL
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-index.jpeg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria/blob/main/screen_tests/tela-inicial.jpg" />
 
-## Tela DO JOGO
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpg" />
+## Tela DO JOGO COM ERRO
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria/blob/main/screen_tests/tela-com-erro.jpg" />
 
-## Tela COM ....
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpg" />
+## Tela DO JOGO COM ACERTO
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria/blob/main/screen_tests/tela-com-acerto.jpg" />
