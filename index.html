@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="./css/style.css">
+
+        <title>Jogo da memória</title>
+
+    </head>
+
+    <body>
+
+        <div class="column">
+            <h1 class="title">Jogo da Memória</h1>
+            <button onClick="window.location.reload();">Novo Jogo</button>
+        </div>
+
+        <main class="memory-game">
+
+            <div class="card" data-card="bowser">
+                <img class="card-front" src="./img/bowser.jpg" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="luigi">
+                <img class="card-front" src="./img/luigi.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="mario">
+                <img class="card-front" src="./img/mario.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="peach">
+                <img class="card-front" src="./img/peach.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="toad">
+                <img class="card-front" src="./img/toad.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="yoshi">
+                <img class="card-front" src="./img/yoshi.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="bowser">
+                <img class="card-front" src="./img/bowser.jpg" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="luigi">
+                <img class="card-front" src="./img/luigi.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="mario">
+                <img class="card-front" src="./img/mario.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="peach">
+                <img class="card-front" src="./img/peach.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="toad">
+                <img class="card-front" src="./img/toad.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+            
+            <div class="card" data-card="yoshi">
+                <img class="card-front" src="./img/yoshi.png" alt="Face da carta">
+                <img class="card-back" src="./img/box.png" alt="Verso da carta">
+            </div>
+
+        </main>
+
+        <!-- Controle da lógica do jogo -->
+        <script src="./js/game.js"></script>
+
+        <!-- Sons do Jogo -->
+        <audio src="sounds/explosao.mp3" preload="auto" id="somExplosao"></audio>
+
+    </body>
+
+</html>
